@@ -1,0 +1,51 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07.ADO.NET\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csprojResolveAssemblyReference.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\07\to mhs 2022\LatihanADO.NET (lengkap)\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\07\to mhs 2022\LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.exe
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\05 2022-2023\01 Ganjil\Pemrograman Lanjut\02 Praktikum\07\to mhs 2022\LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\bin\Debug\LatihanADONET.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\bin\Debug\LatihanADONET.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.Cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\bin\Debug\System.Data.SQLite.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\bin\Debug\System.Data.SQLite.xml
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\07 LatihanADO.NET (lengkap)\LatihanADONET\obj\Debug\LatihanADONET.csproj.CopyComplete
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\System.Data.SQLite.dll
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\System.Data.SQLite.xml
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csprojAssemblyReference.cache
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CopyComplete
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+E:\22.11.4761\pert08\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe.config
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.exe
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\LatihanADONET.pdb
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\System.Data.SQLite.dll
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Debug\System.Data.SQLite.xml
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.AssemblyReference.cache
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Form1.resources
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.Properties.Resources.resources
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.GenerateResource.cache
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CoreCompileInputs.cache
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.csproj.CopyComplete
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.exe
+D:\pemograman lanjutan\New folder (2)\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Debug\LatihanADONET.pdb
